@@ -6,6 +6,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="200" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
